@@ -28,9 +28,9 @@
 <!-- Source of most badges: https://github.com/Ileriayo/markdown-badges -->
 <!-- List of brand icons supported by shields.io: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
-### Languages and Tools 🛠️
+## Languages and Tools 🛠️
 
-#### Programming Languages
+### Programming Languages
 
 <p>
     <a href="https://github.com/search?q=user%3Atomkuttler+language%3Ac">
@@ -53,7 +53,7 @@
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-#### Frameworks and Libraries
+### Frameworks and Libraries
 
 <p>
     <a href="https://www.arduino.cc">
@@ -64,7 +64,7 @@
       <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 </p>
 
-#### Software and Tools
+### Software and Tools
 
 <p>
     <a href="https://www.adobe.com">
@@ -87,4 +87,22 @@
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://developer.apple.com/xcode/">
       <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC.svg?logo=Xcode&logoColor=white"></a>
+</p>
+
+<!-- Github History -->
+
+## GitHub History
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Tom Kuttler's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tomkuttler&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Tom Kuttler's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkuttler&langs_count=8&layout=compact&theme=transparent&hide_border=true" height="192px"/></a>
+  <br/>
+  
+<!-- Animated Footer: https://github.com/kyechan99/capsule-render-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
