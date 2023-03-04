@@ -96,12 +96,12 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Tom Kuttler's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tomkuttler&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="192px"/></a>
+  <img alt="Tom Kuttler's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tomkuttler&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Tom Kuttler's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkuttler&langs_count=8&layout=compact&theme=transparent&hide_border=true" height="192px"/></a>
+  <img alt="Tom Kuttler's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomkuttler&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8" height="192px"/></a>
   <br/>
   
-<!-- Animated Footer: https://github.com/kyechan99/capsule-render-->
+<!-- Animated Footer: https://github.com/kyechan99/capsule-render -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
