@@ -94,6 +94,7 @@
 ## GitHub History
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- Deploy own vercel instance tutorial: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
