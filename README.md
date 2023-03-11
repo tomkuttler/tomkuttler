@@ -102,9 +102,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="47%" alt="Tom Kuttler's Top Languages" src="https://github-readme-stats-tomkuttler.vercel.app/api/top-langs/?username=tomkuttler&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8"/>
 </p>
-
-> **Note**
-> Top Languages does not indicate my skill level, it's a metric to determine which languages have the most code on GitHub.
     
 <!-- Animated Footer: https://github.com/kyechan99/capsule-render -->
 
