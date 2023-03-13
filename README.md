@@ -4,7 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&section=header&text=Tom%20Kuttler&fontSize=60&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<div align="center">
 **`Student (Vöhlin-Gymnasium Memmingen)`**
+</div>
 
 <!-- Social badges -->
 <!-- Source of most badges: https://github.com/Ileriayo/markdown-badges -->
