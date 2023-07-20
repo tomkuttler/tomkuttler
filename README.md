@@ -100,7 +100,7 @@ I'm a CS student at Technical University of Munich
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" alt="Tom Kuttler's Github Stats" src="https://github-readme-stats-tomkuttler.vercel.app/api/?username=tomkuttler&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8"/>
+  <img align="left" width="47%" alt="Tom Kuttler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tomkuttler&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="47%" alt="Tom Kuttler's Top Languages" src="https://github-readme-stats-tomkuttler.vercel.app/api/top-langs/?username=tomkuttler&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8"/>
 </p>
