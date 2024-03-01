@@ -102,7 +102,15 @@ I'm a CS student at Technical University of Munich
   <a href="https://www.microsoft.com/microsoft-365">
     <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01"></a>
 </p>
-    
+
+<!-- Visitor Badge: https://visitorbadge.io -->
+
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftomkuttler">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftomkuttler&countColor=%232ccce4&style=flat" />
+  </a>
+</p>
+
 <!-- Animated Footer: https://github.com/kyechan99/capsule-render -->
 
 <p align="center">
