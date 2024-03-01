@@ -34,23 +34,31 @@ I'm a CS student at Technical University of Munich
 <!-- Supportet icons: https://simpleicons.org -->
 <!-- Click on the icon title to copy the name -->
 
+<!-- Custom Icons: https://github.com/Ileriayo/markdown-badges -->
+
 ## Languages and Tools 🛠️
 
 ### Programming Languages
 
 <p>
-  <a href="https://github.com/search?q=user%3Atomkuttler+language%3Ajava">
-    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Atomkuttler+language%3Ac">
-    <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Atomkuttler+language%3Acpp">
-    <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Atomkuttler+language%3Apython">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Atomkuttlerlanguage%3Atex">
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3Atomkuttler+language%3Amarkdown">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  <!-- Oracle, Java, MySQL, and NetSuite are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners. -->
+    <a href="https://www.java.com">
+      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+    <!-- This logo image consists only of simple geometric shapes or text. It does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain. -->
+    <a href="https://www.iso.org/standard/74528.html">
+      <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-00599C?logo=c-in-hexagon&logoColor=white"></a>
+    <!-- The “Standard C++ Foundation” name and stylized “C++” logo are trademarks of the Standard C++ Foundation. -->
+    <a href="https://isocpp.org">
+      <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-00599C?logo=cpp2&logoColor=white"></a>
+    <!-- "Python" is a registered trademark of the PSF. The Python logos (in several variants) are use trademarks of the PSF as well. -->
+    <a href="https://www.python.org">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+    <!-- The LaTeX Project logo is licensed under the Creative Commons Attribution 4.0 International license. -->
+    <a href="https://www.latex-project.org">
+      <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white"></a>
+    <!-- The Markdown Mark has been dedicated to the public domain. It is protected by the Creative Commons CC0 Universal Public Domain Dedication license. -->
+    <a href="https://daringfireball.net/projects/markdown">
+      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white"></a>
 </p>
 
 ### Software and Tools
@@ -58,16 +66,16 @@ I'm a CS student at Technical University of Munich
 <p>
   <!-- Copyright © 2000-2024 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains s.r.o. -->
     <a href="https://www.jetbrains.com">
-      <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-black?logo=jetbrains"></a>
+      <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-black?logo=jetbrains&logoColor=white"></a>
     <!-- Copyright © 2024 JetBrains s.r.o. IntelliJ IDEA and the IntelliJ IDEA logo are registered trademarks of JetBrains s.r.o. -->
     <a href="https://www.jetbrains.com/idea/">
-      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellij-idea"></a>
+      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellij-idea&logoColor=white"></a>
     <!-- Copyright © 2024 JetBrains s.r.o. CLion and the CLion logo are registered trademarks of JetBrains s.r.o. -->
     <a href="https://www.jetbrains.com/clion/">
-      <img alt="CLion" src="https://img.shields.io/badge/CLion-black?logo=clion"></a>
+      <img alt="CLion" src="https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white"></a>
     <!-- Copyright © 2024 JetBrains s.r.o. PyCharm and the PyCharm logo are registered trademarks of JetBrains s.r.o. -->
     <a href="https://www.jetbrains.com/pycharm/">
-      <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-black?logo=pycharm"></a>
+      <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-black?logo=pycharm&logoColor=white"></a>
     <!-- Xcode is a trademark of Apple Inc., registered in the U.S. and other countries and regions. -->
     <a href="https://developer.apple.com/xcode/">
       <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"></a>
