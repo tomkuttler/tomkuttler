@@ -1,7 +1,7 @@
 <!-- Animated Header: https://github.com/kyechan99/capsule-render-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&section=header&text=Tom%20Kuttler&fontSize=60&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=60&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ## Hi there 👋 
