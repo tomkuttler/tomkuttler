@@ -43,8 +43,6 @@ I'm a CS student at Technical University of Munich
       <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atomkuttler+language%3Ajava">
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Atomkuttler+language%3Ajavascript">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Atomkuttlerlanguage%3Atex">
       <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atomkuttler+language%3Amarkdown">
@@ -53,17 +51,6 @@ I'm a CS student at Technical University of Munich
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Atomkuttler+language%3Asql">
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</p>
-
-### Frameworks and Libraries
-
-<p>
-    <a href="https://www.arduino.cc">
-      <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="https://discordpy.readthedocs.io/en/stable/">
-      <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
-    <a href="https://numpy.org">
-      <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 </p>
 
 ### Software and Tools
@@ -89,20 +76,6 @@ I'm a CS student at Technical University of Munich
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://developer.apple.com/xcode/">
       <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC.svg?logo=Xcode&logoColor=white"></a>
-</p>
-
-<!-- Github History -->
-
-## GitHub History
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- Deploy own vercel instance tutorial: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" alt="Tom Kuttler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tomkuttler&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" alt="Tom Kuttler's Top Languages" src="https://github-readme-stats.vercel.app/api?username=tomkuttler&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=CAD1D8&text_color=CAD1D8"/>
 </p>
     
 <!-- Animated Footer: https://github.com/kyechan99/capsule-render -->
