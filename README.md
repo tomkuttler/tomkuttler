@@ -4,7 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=60&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-## Hi there 👋 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=450&height=40&lines=Hi+there+%F0%9F%91%8B;I'm+a+computer+science+student;at+the+Technical+University+of+Munich" alt="Typing SVG"/>
+</a>
 
 I'm a CS student at Technical University of Munich
 
