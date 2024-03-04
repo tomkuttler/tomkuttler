@@ -4,11 +4,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=60&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<p>
+  <img src="https://holopin.me/tomkuttler" alt="Holopin" width=100% />
+</p>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=450&height=40&lines=Hi+there+%F0%9F%91%8B;I'm+a+computer+science+student;at+the+Technical+University+of+Munich" alt="Typing SVG"/>
 </a>
 
-I'm a CS student at Technical University of Munich
+I am a B.Sc. computer science student at Technical University of Munich.
+How to reach me:
 
 <!-- Social badges -->
 
@@ -105,9 +110,11 @@ I'm a CS student at Technical University of Munich
     <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01"></a>
 </p>
 
+## Profile visitor count 👀
+
 <!-- Visitor Badge: https://visitorbadge.io -->
 
-<p align="center">
+<p>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftomkuttler">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftomkuttler&countColor=%232ccce4&style=flat" />
   </a>
