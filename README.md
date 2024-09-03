@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=60&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Holopin: https://www.holopin.io/@tomkuttler -->
+<!-- Holopin: https://www.holopin.io/@tomkuttler
 
 <p>
   <a href="https://www.holopin.io/@tomkuttler">
@@ -12,13 +12,15 @@
   </a>
 </p>
 
+-->
+
 <!-- Typing animation generator: https://readme-typing-svg.demolab.com/demo/ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=450&height=40&lines=Hi+there+%F0%9F%91%8B;I'm+a+computer+science+student;at+the+Technical+University+of+Munich" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=450&height=40&lines=Hi+there+%F0%9F%91%8B;I+am+a+computer+science+student;at+the+Technical+University+of+Munich" alt="Typing SVG"/>
 </a>
 
-I am a B.Sc. computer science student at Technical University of Munich.
+I am a B.Sc. computer science student at the Technical University of Munich.
 
 How to reach me:
 
@@ -71,6 +73,9 @@ How to reach me:
   <!-- "Python" is a registered trademark of the PSF. The Python logos (in several variants) are use trademarks of the PSF as well. -->
   <a href="https://www.python.org">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+  <!-- The OCaml logo is released under a liberal license. https://github.com/ocaml/ocaml-logo -->
+  <a href="https://ocaml.org">
+    <img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white"></a>
   <!-- The LaTeX Project logo is licensed under the Creative Commons Attribution 4.0 International license. -->
   <a href="https://www.latex-project.org">
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?logo=LaTeX&logoColor=white"></a>
