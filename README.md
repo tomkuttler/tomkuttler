@@ -22,32 +22,6 @@
 
 I am a B.Sc. computer science student at the Technical University of Munich.
 
-<!--
-
-How to reach me:
-
-<!-- Social badges -->
-
-<p align="center">
-  <!-- X and the X logo are either registered trademarks or trademarks of X Corp. in the United States and/or other countries. -->
-  <a href="https://x.com/tomkuttler">
-    <img alt="X" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <!-- Discord and the Discord logo are either registered trademarks or trademarks of Discord Inc. in the United States and/or other countries. -->
-  <a href="https://discordapp.com/users/793397625361268756">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <!-- Instagram and the Instagram logo are either registered trademarks or trademarks of Meta Platforms, Inc. in the United States and/or other countries. -->
-  <a href="https://www.instagram.com/tomkuttler/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <!-- LinkedIn and the LinkedIn logo are either registered trademarks or trademarks of LinkedIn Corp. in the United States and/or other countries. -->
-  <a href="https://www.linkedin.com/in/tomkuttler">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- GITHUB®, the GITHUB® logo design, the INVERTOCAT logo design, OCTOCAT®, and the OCTOCAT® logo design are trademarks of GitHub, Inc., registered in the United States and other countries. -->
-  <a href="https://github.com/tomkuttler">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
--->
-
 ---
 
 <!-- Languages and Tools list -->
