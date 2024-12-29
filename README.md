@@ -22,6 +22,8 @@
 
 I am a B.Sc. computer science student at the Technical University of Munich.
 
+<!--
+
 How to reach me:
 
 <!-- Social badges -->
@@ -44,6 +46,8 @@ How to reach me:
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+-->
+
 ---
 
 <!-- Languages and Tools list -->
@@ -64,15 +68,18 @@ How to reach me:
   <!-- Oracle, Java, MySQL, and NetSuite are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners. -->
   <a href="https://www.java.com">
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?logo=java&logoColor=white"></a>
+  <!-- "Python" is a registered trademark of the PSF. The Python logos (in several variants) are trademarks of the PSF as well. -->
+  <a href="https://www.python.org">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+  <!-- Swift and the Swift logo are trademarks of Apple Inc. -->
+  <a href="https://www.swift.org">
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white"></a>
   <!-- This logo image consists only of simple geometric shapes or text. It does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain. -->
   <a href="https://www.iso.org/standard/74528.html">
     <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-00599C?logo=c-in-hexagon&logoColor=white"></a>
   <!-- The “Standard C++ Foundation” name and stylized “C++” logo are trademarks of the Standard C++ Foundation. -->
   <a href="https://isocpp.org">
     <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-00599C?logo=cpp2&logoColor=white"></a>
-  <!-- "Python" is a registered trademark of the PSF. The Python logos (in several variants) are use trademarks of the PSF as well. -->
-  <a href="https://www.python.org">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
   <!-- The OCaml logo is released under a liberal license. https://github.com/ocaml/ocaml-logo -->
   <a href="https://ocaml.org">
     <img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white"></a>
